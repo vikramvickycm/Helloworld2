@@ -1,3 +1,6 @@
 File 2 has been craeted 
 File 2 got updated for pull 
 request understanding
+
+
+Adding test to test git reset --hard origin/master
